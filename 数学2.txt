@@ -1,0 +1,34 @@
+﻿第一讲：不定积分的概念			https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC788DLU_hd.mp4
+第一讲：不定积分的性质与基本积分表	https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78A939_hd.mp4
+第二讲：不定积分的第一类换元法		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78DML6_hd.mp4
+第二讲：不定积分的第二类换元法		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78G5U6_hd.mp4
+第二讲：不定积分的分部积分法		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78HMCP_hd.mp4
+第三讲：有理函数的不定积分		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78LIBG_hd.mp4
+第三讲：三角函数的不定积分		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78LP1B_hd.mp4
+第四讲：定积分的概念（1）		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78R8UO_hd.mp4
+第四讲：定积分的概念（2）		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78RAP9_hd.mp4
+第四讲：定积分的概念（3）		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78RRGT_hd.mp4
+第四讲：定积分的性质			https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78T2H7_hd.mp4
+第四讲：积分上限函数及其导数		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC78T0B8_hd.mp4
+第五讲：牛顿-莱布尼茨公式		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC7994LT_hd.mp4
+第五讲：定积分的换元法（1）		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC799LIK_hd.mp4
+第五讲：定积分的换元法（2）		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC799QBK_hd.mp4
+第五讲：定积分的换元法（3）		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC79A353_hd.mp4
+第五讲：定积分的分部积分法		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/19/SEC79ADQ9_hd.mp4
+第六讲：定积分的近似计算		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE8GPNK_hd.mp4
+第六讲：反常积分（1）—— 无穷区间上的	https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE8I50M_hd.mp4
+第六讲：反常积分（2）—— 无界函数的反	https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE8J89F_hd.mp4
+第七讲：定积分的元素法			https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE8OJGF_hd.mp4
+第七讲：定积分的几何应用举例（1）：平面	https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE8PQLC_hd.mp4
+第七讲：定积分的几何应用（2）：体积和平	https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE8QG6H_hd.mp4
+第八讲：定积分的物理应用举例		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE948PA_hd.mp4
+第九讲：微分方程的基本概念		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE9L021_hd.mp4
+第九讲：可分离变量的微分方程		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE9OSHI_hd.mp4
+第九讲：齐次方程			https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE9P6GP_hd.mp4
+第九讲：一阶线性微分方程		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE9QM2J_hd.mp4
+第十讲：可降阶的高阶微分方程		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECE9VTN6_hd.mp4
+第十讲：高阶线性微分方程		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECEA2NMA_hd.mp4
+第十讲：常系数齐次线性微分方程I		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECEA454Q_hd.mp4
+第十讲：常系数齐次线性微分方程II	https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECECLJK2_hd.mp4
+第十讲：常系数非齐次微分方程I		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECEA4IL1_hd.mp4
+第十讲：常系数非齐次微分方程II		https://mov.bn.netease.com/open-movie/nos/mp4/2019/04/22/SECEA49UJ_hd.mp4
