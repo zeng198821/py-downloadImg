@@ -64,13 +64,13 @@ def gDownloadWithFilename(url,savePath,file_para):
     try:
         headers = {
             'Accept:'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-                                                                                               'Accept-Encoding':'gzip, deflate, sdch',
-                                                                                                                 'Accept-Language':'zh-CN,zh;q=0.8',
-                                                                                                                                   'Cache-Control':'max-age=0',
-                                                                                                                                                   'Connection':'keep-alive',
-                                                                                                                                                                'If-Modified-Since':'Mon, 08 Jul 2013 18:06:40 GMT',
-                                                                                                                                                                                    'Upgrade-Insecure-Requests':1,
-                                                                                                                                                                                                                'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36'}
+            'Accept-Encoding':'gzip, deflate, sdch',
+            'Accept-Language':'zh-CN,zh;q=0.8',
+            'Cache-Control':'max-age=0',
+            'Connection':'keep-alive',
+            'If-Modified-Since':'Mon, 08 Jul 2013 18:06:40 GMT',
+            'Upgrade-Insecure-Requests':1,
+            'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/53.0.2785.143 Chrome/53.0.2785.143 Safari/537.36'}
         urlopen=urllib.URLopener()
         fp = urlopen.open(url)
         #data = fp.read()
